@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9fe849ufc4u8k9tv?svg=true)](https://ci.appveyor.com/project/feuerwolf0/hw-js-jest-appveyor-1)
